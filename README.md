@@ -2,7 +2,7 @@
 
 This is the frontend for a chat application built using React.js. The application allows users to search for conversations by contact name, view all conversations in the left sidebar, and create new conversations in a pop-up modal. Users can send messages and receive alerts for errors and successful actions.
 
-## Hosted-Link - https://reactchat12.netlify.app/chat/2
+## Hosted-Link - https://reactchat12.netlify.app/
 
 ## Technologies
 
